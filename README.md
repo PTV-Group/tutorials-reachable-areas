@@ -10,5 +10,5 @@ PTV Developer APIs used in this tutorial:
   - <a href="https://developer.myptv.com/Tutorials.htm" target="_blank">How to create an API key for PTV Developer</a>
 - Start the application by opening `index.html` in your browser.
 #
-### Try the tutorial application <a href="https://developer.myptv.com/Applications/Routing/Reachable_Areas/index.html" target="_blank">here</a>.
+### Try the tutorial application <a href="https://developer-applications.myptv.com/Tutorials/Routing/Reachable_Areas/index.html" target="_blank">here</a>.
 ### Read the <a href="https://developer.myptv.com/Tutorials/Routing/Reachable%20Areas/Reachable%20Areas.htm" target="_blank">complete tutorial</a> on PTV Developer.
