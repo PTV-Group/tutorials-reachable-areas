@@ -179,7 +179,6 @@ $(document).ready(function () {
     function fetchRoute() {
         let resStatus = 0;
         // The definition of the REST parameters differs from geocoding because the waypoint parameter will occur multiple times.
-        // See: https://developer.myptv.com/Documentation/Routing%20API/API%20Reference.htm
         fetch(
                 "https://api.myptv.com/routing/v1/reachable-areas" + getReachableAreasQuery(), {
                 method: "GET",
